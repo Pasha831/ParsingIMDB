@@ -40,6 +40,15 @@ I've parced it in my .py file making these steps (*read comments to understand, 
 4. extarct useful info into a Pandas dataframe
 5. export dataframe data to .csv file to read and to work with it later
 
+After all this work, i have a litle 1000-films dataset, which have these columns:
+
+![image](https://user-images.githubusercontent.com/46136468/126227948-85c55de5-ac1c-4f43-ae29-76f77ef3a17b.png)
+
+and looks like this:
+
+![image](https://user-images.githubusercontent.com/46136468/126227813-62f5c5c2-a505-494b-ac71-e0fdd2f06225.png)
+
+
 <img src='https://ichef.bbci.co.uk/news/640/cpsprodpb/5CB0/production/_99782732_37e58b7e-9cf4-44e0-86c7-59c42f34697a.jpg' width="400" height="300">
 
 ## What am i going to do now?
