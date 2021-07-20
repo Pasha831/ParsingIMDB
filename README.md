@@ -35,7 +35,7 @@ I chose it because it was:
 
 **Significant notes:**
 * this dataset can be not representative too much, because it contains only 1000 best films, not all movies in history
-* this dataset sometimes contains 'unknown' cells, because some info like Metascore score of films' gross are really unknown
+* this dataset sometimes contains empty cells, because some info like Metascore score of films' gross are really unknown
 
 <img src='https://www.meme-arsenal.com/memes/b95277c152527c3379654dced767edcb.jpg' width="400" height="300">
 
