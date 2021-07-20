@@ -1,9 +1,9 @@
 # ParsingIMDb
 My name is Pasha.
 
-I am learning Data Science on Coursera site and have some free time to practice with parcing web sites.
+I am learning Data Science on Coursera site and have some free time to practice with parsing web sites.
 
-Here i am parcing <a href='https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&ref_=adv_nxt'>IMDb raiting</a> - 1000 top films of all the time.
+Here i am parsing <a href='https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&ref_=adv_nxt'>IMDb raiting</a> - 1000 top films of all the time.
 
 <img src="https://vgif.ru/gifs/157/vgif-ru-28496.gif" width="200" height="200" />
 <hr>
@@ -25,20 +25,29 @@ Here i am parcing <a href='https://www.imdb.com/search/title/?groups=top_1000&so
 ## Getting started
 First of all, i found a great IMDb database about Top-1000 films in human history.
 
+![image](https://user-images.githubusercontent.com/46136468/126282645-a93e6d7a-73b1-4b82-a711-b2d4b56a05b0.png)
+
+
 I chose it because it was:
-* easy to parce *(but not always :D)*
+* easy to parse *(but not always :D)*
 * easy to understand
 * easy to make a stories based on result of this database
+
+**Significant notes:**
+* this dataset can be not representative too much, because it contains only 1000 best films, not all movies in history
+* this dataset sometimes contains 'unknown' cells, because some info like Metascore score of films' gross are really unknown
 
 <img src='https://www.meme-arsenal.com/memes/b95277c152527c3379654dced767edcb.jpg' width="400" height="300">
 
 ## Steps of work
-I've parced it in my .py file making these steps (*read comments to understand, what the h#ll is going on?*):
-1. made a request to IMDb site to get text version of this page
-2. import libraries such as Pandas, BeautifulSoup and Requests to handle with data
-3. parced all 1000 rows of a table
-4. extarct useful info into a Pandas dataframe
-5. export dataframe data to .csv file to read and to work with it later
+I've parsed it in my .py file making these steps (*read comments to understand, what the h#ll is going on?*):
+1. import libraries such as **Pandas**, **BeautifulSoup** and **Requests** to handle with data
+2. **made a request** to IMDb site to get text version of this page
+3. parsed all **1000 rows** of a table
+4. extarct useful info into a **Pandas dataframe**
+5. export dataframe data **to .csv** file to read and to work with it later
+
+*P.S.: I used a while loop to parse this page, because this raiting consits of **10 different pages***
 
 After all this work, i have a litle 1000-films dataset, which have these columns:
 
@@ -46,10 +55,14 @@ After all this work, i have a litle 1000-films dataset, which have these columns
 
 and looks like this:
 
-![image](https://user-images.githubusercontent.com/46136468/126227813-62f5c5c2-a505-494b-ac71-e0fdd2f06225.png)
+![image](https://user-images.githubusercontent.com/46136468/126286046-685b9a57-4aa5-43c5-947c-bea1ab34138e.png)
 
 
 <img src='https://ichef.bbci.co.uk/news/640/cpsprodpb/5CB0/production/_99782732_37e58b7e-9cf4-44e0-86c7-59c42f34697a.jpg' width="400" height="300">
+
+Need to mention, that i am learnign on **Coursera** and in process to get my **IBM Data Science Professional Certificate** (5/10 courses done)
+
+Therefore, i often used instruments from **IBM Cloud** like **Watson Studio** or **Services to work with Database**.
 
 ## What am i going to do now?
 That's a good question and i have some answers for you.
