@@ -144,4 +144,4 @@ df.to_csv('movie_rating.csv', index=False)
 
 # The end.
 # Thanks for reading and scrolling this file.
-# My github repository of this .py file:
+# My github repository of this .py file: https://github.com/Pasha831/ParsingIMDB
