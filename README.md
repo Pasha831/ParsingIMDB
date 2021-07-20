@@ -60,7 +60,7 @@ and looks like this:
 
 <img src='https://ichef.bbci.co.uk/news/640/cpsprodpb/5CB0/production/_99782732_37e58b7e-9cf4-44e0-86c7-59c42f34697a.jpg' width="400" height="300">
 
-Need to mention, that i am learnign on **Coursera** and in process to get my **IBM Data Science Professional Certificate** (5/10 courses done)
+Need to mention, that i am learning on **Coursera** and in process to get my **IBM Data Science Professional Certificate** (5/10 courses done)
 
 Therefore, i often used instruments from **IBM Cloud** like **Watson Studio** or **Services to work with Database**.
 
@@ -81,6 +81,10 @@ Here is the small list of inforamtion, that i want extract from data which i obt
 
 ## Analyzing the data
 Here we are going to tell about all 7 (or more questions), using my ability to tell stories and making graphs (which now is not really good 😟)
+
+Let's explore **10 best films in history**:
+
+![image](https://user-images.githubusercontent.com/46136468/126324184-dfa928ab-0da8-4c9e-89c6-440998ec1922.png)
 
 <img src='https://lh3.googleusercontent.com/proxy/ywidB_H5LKokUzDvWXoxjQNKsJsT7ysF4zqXQ_K1Kx_XsYMoatapH2-51Nm-fnwqy-9gtY44DWuk9-oDlfaojwFuX8_HdAVFbXBAg2lYOio7OR0DFL_Mf9q3cvabRdd-2whp3rB0G0T5PHrgC7FI5RoTXs4HEQ' width="400" height="300">
 
