@@ -71,14 +71,14 @@ Therefore, i often used instruments from **IBM Cloud** like **Watson Studio** or
 That's a good question and i have some answers for you.
 
 Here is the small list of inforamtion, that i want extract from data which i obtained:
-1. Is there any relationship between length of the name of the film and gross sums or rating of film?
+1. What are the best movies?
 2. Which era was the most eventful in the film industry?
 3. Which era of film indusrty was teeming with profits?
 4. How much films were created each year? (is there any areas of decline or growth of the industry?)
 5. How is changing length of the film during years?
 6. How is changing gross of the film during years?
-7. Whats the realtionship between length of the film and the year when it was created?
-8. more questions will appear in future 😅
+7. What realtionship between length of the film and the year when it was created?
+8. Is there any relationship between length of the name of the film and gross sums or rating of film?
 
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/surprise.gif' width="400" height="300">
 
