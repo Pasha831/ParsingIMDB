@@ -91,9 +91,18 @@ Let's explore answer to start some simple questions.
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/10_best_films.png'>
 
-As you can see, the most raited film in history (by IMDb of course) - **The Shawshank Redemption**. In my opinion, this movie is really cool and all, but i'm agree with MetaScore raiting (80 credits) and i **would put** this movie **below** in raiting. My first place is a **'1+1'** movie.
+As you can see, the most raited film in history (by IMDb of course) - **The Shawshank Redemption**. 
+In my opinion, this movie is really cool and all, 
+but i'm agree with MetaScore raiting (80 credits) 
+and i **would put** this movie **below** in raiting. 
+My first place is a **'1+1'** movie.
 
-Next films in the top three are **The Godfather** (film, that i will watch soon in English, therefore can't put any my words here) and **Soorarai Pottru** (something from India as i understand, maybe this movies is great, but Indian indusrty - not in my taste.
+Next films in the top three are **The Godfather** (
+film, that i will watch soon in English, therefore 
+can't put any my words here) 
+and **Soorarai Pottru** 
+(something from India as i understand, maybe this movies is great, 
+but Indian indusrty - not in my taste.
 
 ## **Frequency of cinematography releases by years**
 
