@@ -5,7 +5,7 @@ I am learning Data Science on Coursera site and have some free time to practice 
 
 Here i am parsing <a href='https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&ref_=adv_nxt'>IMDb raiting</a> - 1000 top films of all the time.
 
-<img src="https://vgif.ru/gifs/157/vgif-ru-28496.gif" width="200" height="200" />
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/scary.gif' width=600>
 <hr>
 
 ## Objectives:
@@ -17,7 +17,7 @@ Here i am parsing <a href='https://www.imdb.com/search/title/?groups=top_1000&so
 
 **Fasten seat belts, we take off!**
 
-<img src='https://lh3.googleusercontent.com/proxy/1qpBNy2x1OCJoCBs7I8D502iQ1deECPR-1456ri2f5-B5KoiSYIhbyrnu_xbnBMdgClsBbZjvB7JElp54rK9hr-wFxQocA8z3KUdb-VX-40ynARTHmQpkr68lMChVtpt' width="400" height="300">
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/clever.jpg'>
 
 
 <hr>
@@ -25,7 +25,7 @@ Here i am parsing <a href='https://www.imdb.com/search/title/?groups=top_1000&so
 ## Getting started
 First of all, i found a great IMDb database about Top-1000 films in human history.
 
-![image](https://user-images.githubusercontent.com/46136468/126282645-a93e6d7a-73b1-4b82-a711-b2d4b56a05b0.png)
+
 
 
 I chose it because it was:
@@ -37,7 +37,7 @@ I chose it because it was:
 * this dataset can be not representative too much, because it contains only 1000 best films, not all movies in history
 * this dataset sometimes contains empty cells, because some info like Metascore score of films' gross are really unknown
 
-<img src='https://www.meme-arsenal.com/memes/b95277c152527c3379654dced767edcb.jpg' width="400" height="300">
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/working_cat.jfif' height=300>
 
 ## Steps of work
 I've parsed it in my .py file making these steps (*read comments to understand, what the h#ll is going on?*):
@@ -51,12 +51,13 @@ I've parsed it in my .py file making these steps (*read comments to understand, 
 
 After all this work, i have a litle 1000-films dataset, which have these columns:
 
-![image](https://user-images.githubusercontent.com/46136468/126227948-85c55de5-ac1c-4f43-ae29-76f77ef3a17b.png)
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/columns_in_rating.png'>
 
 and looks like this:
 
-![image](https://user-images.githubusercontent.com/46136468/126286046-685b9a57-4aa5-43c5-947c-bea1ab34138e.png)
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/table_example.png'>
 
+<hr>
 
 <img src='https://ichef.bbci.co.uk/news/640/cpsprodpb/5CB0/production/_99782732_37e58b7e-9cf4-44e0-86c7-59c42f34697a.jpg' width="400" height="300">
 
@@ -77,20 +78,18 @@ Here is the small list of inforamtion, that i want extract from data which i obt
 7. Whats the realtionship between length of the film and the year when it was created?
 8. more questions will appear in future 😅
 
-<img src='https://vgif.ru/gifs/138/vgif-ru-15976.gif' width="400" height="300">
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/surprise.gif' width="400" height="300">
 
 ## Analyzing the data
 Here we are going to tell about all 7 (or more questions), using my ability to tell stories and making graphs (which now is not really good 😟)
 
 Let's explore answer to start some simple questions.
 
-For exmaple, what are **10 best films in history**?:
+For exmaple, what are **10 best movies in history**?:
 
-![image](https://user-images.githubusercontent.com/46136468/126324184-dfa928ab-0da8-4c9e-89c6-440998ec1922.png)
-
-<img src='https://lh3.googleusercontent.com/proxy/ywidB_H5LKokUzDvWXoxjQNKsJsT7ysF4zqXQ_K1Kx_XsYMoatapH2-51Nm-fnwqy-9gtY44DWuk9-oDlfaojwFuX8_HdAVFbXBAg2lYOio7OR0DFL_Mf9q3cvabRdd-2whp3rB0G0T5PHrgC7FI5RoTXs4HEQ' width="400" height="300">
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/10_best_films.png'>
 
 ## How to contact me?
-<img src='https://99px.ru/sstorage/86/2016/12/image_860612160048418882106.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
 
-<img src = 'https://i.ytimg.com/vi/ih85LYvbDEM/maxresdefault.jpg'>
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/japanese_cat.jfif'>
