@@ -82,7 +82,9 @@ Here is the small list of inforamtion, that i want extract from data which i obt
 ## Analyzing the data
 Here we are going to tell about all 7 (or more questions), using my ability to tell stories and making graphs (which now is not really good 😟)
 
-Let's explore **10 best films in history**:
+Let's explore answer to start some simple questions.
+
+For exmaple, what are **10 best films in history**?:
 
 ![image](https://user-images.githubusercontent.com/46136468/126324184-dfa928ab-0da8-4c9e-89c6-440998ec1922.png)
 
