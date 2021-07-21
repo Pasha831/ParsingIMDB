@@ -57,11 +57,13 @@ and looks like this:
 
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/table_example.png'>
 
+There are some rows with *None values*, in some cases i will remove them to make everything clear.
+
 <hr>
 
 <img src='https://ichef.bbci.co.uk/news/640/cpsprodpb/5CB0/production/_99782732_37e58b7e-9cf4-44e0-86c7-59c42f34697a.jpg' width="400" height="300">
 
-Need to mention, that i am learning on **Coursera** and in process to get my **IBM Data Science Professional Certificate** (5/10 courses done)
+Need to mention, that i am learning on **<a href='https://www.coursera.org/'>Coursera</a>** and in process to get my **<a href='https://www.coursera.org/professional-certificates/ibm-data-science'>IBM Data Science Professional Certificate</a>** (5/10 courses done)
 
 Therefore, i often used instruments from **IBM Cloud** like **Watson Studio** or **Services to work with Database**.
 
