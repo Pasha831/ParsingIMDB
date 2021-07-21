@@ -106,6 +106,19 @@ but Indian indusrty - not in my taste.
 
 ## **Frequency of cinematography releases by years**
 
+<img src ='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/film_production.png'>
+
+Second chart is going to show us frequency of cinematography releases by years.
+Exploring it, we can recognize some interesting features:
+
+1. Film production in the world since 1920's (the oldest films in our data set)
+is **always growing in sizes**.
+   
+2. We can find some **peaks** on the chart:
+    * Fist peak dated **1939-1941**. It is the time, when
+    American cinema was significantly filled with 
+    superhero comics from **Marvel and DC**.
+
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
 
