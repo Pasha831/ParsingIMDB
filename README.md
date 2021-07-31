@@ -74,11 +74,10 @@ Here is the small list of inforamtion, that i want extract from data which i obt
 1. What are the best movies?
 2. Which era was the most eventful in the film industry?
 3. Which era of film indusrty was teeming with profits?
-4. How much films were created each year? (is there any areas of decline or growth of the industry?)
-5. How is changing length of the film during years?
-6. How is changing gross of the film during years?
-7. What realtionship between length of the film and the year when it was created?
-8. Is there any relationship between length of the name of the film and gross sums or rating of film?
+4. How is changing length of the film during years?
+5. How is changing gross of the film during years?
+6. What realtionship between length of the film and the year when it was created?
+7. Is there any relationship between length of the name of the film and gross sums or rating of film?
 
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/surprise.gif' width="400" height="300">
 
@@ -124,7 +123,23 @@ is **always growing in sizes**.
       
 3. We can see a sad story at **2020**. With the advent of coronavirus movie
    industry rapidly died. There were only **8** films which hit the IMDb raiting:
-   Soorarai Pottru, Dara of Jasenovac, Hamilton, Demon Slayer: Mugen Train, The Father, Soul, The Trial of the Chicago 7, Another Round.
+   * Soorarai Pottru
+   * Dara of Jasenovac
+   * Hamilton
+   * Demon Slayer: Mugen Train
+   * The Father
+   * Soul
+   * The Trial of the Chicago 7
+   * Another Round
+    
+In conclusion, movie production was developing gradually and I can't note period of time when film industry was "on fire".
+
+
+## Average incomes by films by year
+
+
+
+
 
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
