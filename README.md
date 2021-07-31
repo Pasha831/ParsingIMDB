@@ -117,7 +117,14 @@ is **always growing in sizes**.
 2. We can find some **peaks** on the chart:
     * Fist peak dated **1939-1941**. It is the time, when
     American cinema was significantly filled with 
-    superhero comics from **Marvel and DC**.
+    superhero comics from **Marvel and DC**. Also there were a lot of
+    films about **WW2**.
+    * The best year in film production, which is full of good films
+    that are in IMDb rating - **2004**. There were filmed 33 films.
+      
+3. We can see a sad story at **2020**. With the advent of coronavirus movie
+   industry rapidly died. There were only **8** films which hit the IMDb raiting:
+   Soorarai Pottru, Dara of Jasenovac, Hamilton, Demon Slayer: Mugen Train, The Father, Soul, The Trial of the Chicago 7, Another Round.
 
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
