@@ -138,7 +138,7 @@ In conclusion, movie production was developing gradually and I can't note period
 ## Average incomes by movies by year of production
 Let's find mean value for each year and examine this plot.
 
-<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/grosses.jpg'>
+<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/gross.jpg'>
 
 
 
