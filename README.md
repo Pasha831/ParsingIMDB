@@ -140,9 +140,38 @@ Let's find mean value for each year and examine this plot.
 
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/gross.png'>
 
+In my opinion, there are 5 interesting outliers among all years: 1939, 1956, 1965, 1977 and 2018 years. Let's see three most
+successful films in each year:
+
+1. 1939 - **70.120.000** $
+   * Mr. Smith Goes to Washington - 9.600.000 $
+   * Gone with the Wind - 198.680.000 $
+   * The Wizard of Oz - 2.080.000 $
+2. 1956 - **93.740.000** $ and only one film in rating
+   * The Ten Commandments - 93.740.000 $
+3. 1965 - **96.000.000** $
+   * For a Few Dollars More - 15.000.000 $ 
+   * The Sound of Music - 163.210.000 $
+   * Doctor Zhivago - 111.720.000 $ (*I didn't know that there is a movie about this book with such grosses!*)
+4. 1977 - **164.000.000** $
+   * Star Wars: Episode IV - A New Hope - 322.740.000 $ (*predictable*)
+   * Annie Hall - 39.200.000 $
+   * Close Encounters of the Third Kind - 132.090.000 $
+5. 2018 - **186.000.000** $ (*let's see five of them* :D )
+   * Avengers: Infinity War - 678.820.000 $
+   * Incredibles 2 - 608.580.000 $
+   * Deadpool 2 - 324.590.000 $
+   * Mission: Impossible - Fallout - 220.160.000 $
+   * Bohemian Rhapsody - 216.430.000 $
+
+2018 was full of great films with great grosses!
+
+But which movie has the highest box office?
 
 
 
+
+    
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
 
