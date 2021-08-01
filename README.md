@@ -174,9 +174,14 @@ successful films in each year:
 
 2018 was full of great films with great grosses!
 
-But which movie has the highest box office?
+But which movie has the highest box office? *drumroll...*
 
+This movie is **Star Wars: Episode VII - The Force Awakens** with 936.660.000 $ box office.
+Please, don't throw tomatoes at me! I know that "Avatar" has **2.798.579.794** $, but this film isn't in movie rating D:
 
+IMDb rating includes only Gross US & Canada, and that's a bullshit! 
+(*You can see worldwide box office, but only checking appropriate page of film,
+that is very costly in parsing*)
 
 
     
