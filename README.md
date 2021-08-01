@@ -135,7 +135,10 @@ is **always growing in sizes**.
 In conclusion, movie production was developing gradually and I can't note period of time when film industry was "on fire".
 
 
-## Average incomes by films by year
+## Average incomes by movies by year of production
+Let's find mean value for each year and examine this plot.
+
+
 
 
 
