@@ -184,6 +184,24 @@ IMDb rating includes only Gross US & Canada, and that's a bullshit!
 that is very costly in parsing*)
 
 
+## Length of films
+
+Let's see another plot:
+
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/length.png'>
+
+We can see, that there is no year dependence for average length of movies.
+
+Telling you exact number of average length - it is **123** minutes.
+
+Let's get acquainted with the shortest and the longest movie:
+
+* The shortest - Sherlock Jr., **45** minutes
+* The longest - Gangs of Wasseypur, **321** minutes, or 5 hours and 21 minutes!!! 
+  (*chance of falling asleep while watching it - about 99.9999%*)
+
+
+## Discovering realtionships
     
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
