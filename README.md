@@ -299,7 +299,62 @@ standardization are between 0 and 1*) and first number is and **intercept**.
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/distrib.png'>
 
+Plot above show us how our model predicts the box office. Honestly, I'm surprised!
+It's very close to reality. Maybe let's try it?
+
+There is a movie "Soorarai Pottru", which was dropped from our training data,
+because it didn't have box office information (*film is very young, check its box office later and compare with prediction below!*). This will be our test subject.
+
+Information about movie to predict box office:
+* Year of production: 2020
+* Length in minutes: 153
+* Quantity of votes: 84950
+* Metascore rating: 78 (it's actually none, so I replaced none with average Metascore rating)
+* Length of movie title: 15 
+* Length of movie description: 177
+
+Prediction is **61.786.495** $. It's pretty real! Check it when information
+about box office of this movie will appear.
+
+<hr>
+
+I'm going to try with one more movie: "It's a Wonderful Life". We don't know box office of this movie
+using IMDb raiting but i found that gross:
+* in US & Canada - $44,000
+* worldwide - $6,184,298
+
+Let's do the same work such as with previous film:
+* Year of production: 1946
+* Length in minutes: 130
+* Quantity of votes: 415284
+* Metascore rating: 89
+* Length of movie title: 21
+* Length of movie description: 144
+
+And prediction for this film is - **55.223.171** $. Hah, it's almost $6.184.298, right?
+Here we see, that our model sometimes is bad at predictions...
+
+<hr>
+
+The last one for this time - "Hamilton" movie (2020, it's fresh and don't have info about box office).
+Necessary information:
+* Year of production: 2020
+* Length in minutes: 160
+* Quantity of votes: 68685
+* Metascore rating: 90
+* Length of movie title: 8
+* Length of movie description: 208
+
+The last prediction for today - 57.355.346 $. We will check it in near future..;
+
+## Conclusion
+You can easily f#ck the world using information and Data Science skills! **Stay curious**.
+
+> Tell a great story from your analyzises. Not like me :D
+
 ## How to contact me?
-<img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
+<a href="https://t.me/nightshift48">Me in Telegram</a> 
+
+<a href="https://vk.com/notuselessman">Me in VK</a>
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/japanese_cat.jfif'>
