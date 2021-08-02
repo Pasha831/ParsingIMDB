@@ -63,21 +63,19 @@ There are some rows with *None values*, in some cases i will remove them to make
 
 <img src='https://ichef.bbci.co.uk/news/640/cpsprodpb/5CB0/production/_99782732_37e58b7e-9cf4-44e0-86c7-59c42f34697a.jpg' width="400" height="300">
 
-Need to mention, that i am learning on **<a href='https://www.coursera.org/'>Coursera</a>** and in process to get my **<a href='https://www.coursera.org/professional-certificates/ibm-data-science'>IBM Data Science Professional Certificate</a>** (5/10 courses done)
+Need to mention, that I am learning on **<a href='https://www.coursera.org/'>Coursera</a>** and in process to get my **<a href='https://www.coursera.org/professional-certificates/ibm-data-science'>IBM Data Science Professional Certificate</a>** (5/10 courses done)
 
-Therefore, i often used instruments from **IBM Cloud** like **Watson Studio** or **Services to work with Database**.
+Therefore, I often used instruments from **IBM Cloud** like **Watson Studio** or **Services to work with Database**.
 
-## What am i going to do now?
-That's a good question and i have some answers for you.
+## What am I going to do now?
+That's a good question and I have some answers for you.
 
-Here is the small list of inforamtion, that i want extract from data which i obtained:
+Here is the small list of information, that I want extract from data which I obtained:
 1. What are the best movies?
 2. Which era was the most eventful in the film industry?
-3. Which era of film indusrty was teeming with profits?
+3. Which era of film industry was teeming with profits?
 4. How is changing length of the film during years?
 5. How is changing gross of the film during years?
-6. What realtionship between length of the film and the year when it was created?
-7. Is there any relationship between length of the name of the film and gross sums or rating of film?
 
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/surprise.gif' width="400" height="300">
 
@@ -90,18 +88,18 @@ Let's explore answer to start some simple questions.
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/10_best_films.png'>
 
-As you can see, the most raited film in history (by IMDb of course) - **The Shawshank Redemption**. 
+As you can see, the most rated film in history (by IMDb of course) - **The Shawshank Redemption**. 
 In my opinion, this movie is really cool and all, 
-but i'm agree with MetaScore raiting (80 credits) 
-and i **would put** this movie **below** in raiting. 
+but i'm agree with MetaScore rating (80 credits) 
+and i **would put** this movie **below** in rating. 
 My first place is a **'1+1'** movie.
 
 Next films in the top three are **The Godfather** (
 film, that i will watch soon in English, therefore 
 can't put any my words here) 
 and **Soorarai Pottru** 
-(something from India as i understand, maybe this movies is great, 
-but Indian indusrty - not in my taste.
+(something from India as i understand, maybe these movies is great, 
+but Indian industry - not in my taste.
 
 ## **Frequency of cinematography releases by years**
 
@@ -116,13 +114,13 @@ is **always growing in sizes**.
 2. We can find some **peaks** on the chart:
     * Fist peak dated **1939-1941**. It is the time, when
     American cinema was significantly filled with 
-    superhero comics from **Marvel and DC**. Also there were a lot of
+    superhero comics from **Marvel and DC**. Also, there were a lot of
     films about **WW2**.
     * The best year in film production, which is full of good films
     that are in IMDb rating - **2004**. There were filmed 33 films.
       
 3. We can see a sad story at **2020**. With the advent of coronavirus movie
-   industry rapidly died. There were only **8** films which hit the IMDb raiting:
+   industry rapidly died. There were only **8** films which hit the IMDb rating:
    * Soorarai Pottru
    * Dara of Jasenovac
    * Hamilton
@@ -201,7 +199,7 @@ Let's get acquainted with the shortest and the longest movie:
   (*chance of falling asleep while watching it - about 99.9999%*)
 
 
-## Discovering realtionships between features
+## Discovering relationships between features
 Let's imagine that we are film producers. Our aim - create great film
 which must please people. And of course, we want to make money!
 
