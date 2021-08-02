@@ -263,6 +263,37 @@ And here we have some plots about this:
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/rel_gross.png'>
 
+
+## Making predictions
+I think that it would be cool to **predict box office of a movie** before its out on screens. Knowing your box
+office is incredible ability - you can predict your proceeds from each movie.
+
+Let's predict box office on this information:
+* Year of production
+* Length in minutes
+* Quantity of votes
+* Metascore rating
+* Length of movie title (it's going to be interesting!)
+* Length of movie description (the same case as above)
+
+Two last parameters are really crazy! Let's explore relationship where
+it seems that there is no relationship at all.
+
+I'm going to use <a href='https://scikit-learn.org/stable/'>sklearn</a> library and linear regression
+with parameters above. So let's get started>
+
+First, we have to drop all null rows in table and also columns, where rows of it are not
+integers (like "Name" or "Description" columns).
+
+Then, add columns "NameLen" and "DescLen" (last two parameters of our plan).
+
+After all, import ```sklearn``` library and make ```LinearRegression()``` object to fit our model and
+make predictions.
+
+Now, we have an expression for calculating the box office of a movie:
+
+<img src="https://latex.codecogs.com/svg.image?\mathbf{Box&space;Office}&space;=&space;\mathbf{759566.8}*\mathbf{X1}&space;&plus;&space;\mathbf{238609.6}*\mathbf{X2}&space;&plus;&space;\mathbf{159.76}*\mathbf{X3}&space;&plus;&space;\mathbf{21273.2}*\mathbf{X4}&space;&plus;&space;\mathbf{1293068}*\mathbf{X5}&space;&plus;&space;\mathbf{170752}*\mathbf{X6}" title="\mathbf{Box Office} = \mathbf{759566.8}*\mathbf{X1} + \mathbf{238609.6}*\mathbf{X2} + \mathbf{159.76}*\mathbf{X3} + \mathbf{21273.2}*\mathbf{X4} + \mathbf{1293068}*\mathbf{X5} + \mathbf{170752}*\mathbf{X6}" />
+
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
 
