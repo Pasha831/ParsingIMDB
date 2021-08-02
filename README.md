@@ -292,7 +292,10 @@ make predictions.
 
 Now, we have an expression for calculating the box office of a movie:
 
-<img src="https://latex.codecogs.com/svg.image?\mathbf{Box&space;Office}&space;=&space;\mathbf{759566.8}*\mathbf{X1}&space;&plus;&space;\mathbf{238609.6}*\mathbf{X2}&space;&plus;&space;\mathbf{159.76}*\mathbf{X3}&space;&plus;&space;\mathbf{21273.2}*\mathbf{X4}&space;&plus;&space;\mathbf{1293068}*\mathbf{X5}&space;&plus;&space;\mathbf{170752}*\mathbf{X6}" title="\mathbf{Box Office} = \mathbf{759566.8}*\mathbf{X1} + \mathbf{238609.6}*\mathbf{X2} + \mathbf{159.76}*\mathbf{X3} + \mathbf{21273.2}*\mathbf{X4} + \mathbf{1293068}*\mathbf{X5} + \mathbf{170752}*\mathbf{X6}" />
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/equation.jpg'>
+
+Where X1, X2, X3 ... X6 - coefficients for each parameter (*all of them after
+standardization are between 0 and 1*) and first number is and intercept.
 
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
