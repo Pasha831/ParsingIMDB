@@ -201,7 +201,15 @@ Let's get acquainted with the shortest and the longest movie:
   (*chance of falling asleep while watching it - about 99.9999%*)
 
 
-## Discovering realtionships
+## Discovering realtionships between features
+Let's imagine that we are film producers. Our aim - create great film
+which must please people. And of course, we want to make money!
+
+Therefore, we want (*everyone has their own order*):
+1. **Big grades** from people
+2. **Much money** from people
+
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/leo_gif2.gif'>
     
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
