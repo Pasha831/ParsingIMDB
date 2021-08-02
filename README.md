@@ -245,6 +245,24 @@ Let's see some plots of these relationships:
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/rel_grade.png'>
 
+<hr>
+
+Now let's create the same table and plots for explore relationship between
+box office of movie and other attributes:
+
+| Factor        | Correlation score           | Brief explanation  |
+| ------------- |:-------------:| -----:|
+|  Place in rating    | -0.060560 | Place in rating doesn't impact on box office of the movie |
+| Year      | 0.236329      |  We have weak relationship: the newer the movie - the more revenue |
+| Length in minutes | 0.142009      |Really small relationship|
+|Votes|0.578388|Another interesting information: more votes has the movie - higher the box office (it's logical too: everyone who voted watched the movie :D|
+|Grade|0.088599|Almost no relationship between box office of movie and it's rating|
+|Metascore rating|-0.039374|No relationship|
+
+And here we have some plots about this:
+
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/rel_gross.png'>
+
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
 
