@@ -210,7 +210,41 @@ Therefore, we want (*everyone has their own order*):
 2. **Much money** from people
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/leo_gif2.gif'>
-    
+
+In this section, we will use **scatter plots with regression line** -
+ the best way to find relationships between different features.
+
+You can easily see relationship between two different features on this plot.
+In addition to it, I am going to prove the relationship using 
+<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html?highlight=corr#pandas.DataFrame.corr"> correlation score </a>
+from *Pandas*.
+
+Briefly, linear relationships between two variables can be 
+* positive (+1)
+* negative (-1)
+* no relationship (0)
+
+For instance: 
+* **more** cat photos -> **more** happiness (positive relationship)
+* **more** suicidal guys -> **less** suicidal guys (negative relationship)
+* **more** photo of bears -> my level of happiness won't increase (no relationship, it doesn't matter to me)
+
+Here we have a table, that represents relationships between grade
+of film and other attributes:
+
+| Factor        | Correlation score           | Brief explanation  |
+| ------------- |:-------------:| -----:|
+|  Place in rating    | -0.939748 | The further we are from the beginning of the rating, the further we are from good ratings, it's logical |
+| Year      | -0.122696      |  Practically no relationship between them  |
+| Length in minutes | 0.237634      |    Still not the biggest correlation score, but there is a *small impact* on grade of film |
+|Votes|0.472281|More interesting information: more votes has the movie - higher the score|
+|Gross in $|0.088599|Almost no relationship between box office of movie and it's rating|
+|Metascore rating|0.266656|Weak relationship: bigger Metascore rating - higher grade|
+
+Let's see some plots of these relationships:
+
+
+
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
 
