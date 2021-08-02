@@ -280,7 +280,7 @@ Two last parameters are really crazy! Let's explore relationship where
 it seems that there is no relationship at all.
 
 I'm going to use <a href='https://scikit-learn.org/stable/'>sklearn</a> library and linear regression
-with parameters above. So let's get started>
+with parameters above. So let's get started!
 
 First, we have to drop all null rows in table and also columns, where rows of it are not
 integers (like "Name" or "Description" columns).
@@ -294,8 +294,10 @@ Now, we have an expression for calculating the box office of a movie:
 
 <img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/equation.jpg'>
 
-Where X1, X2, X3 ... X6 - coefficients for each parameter (*all of them after
-standardization are between 0 and 1*) and first number is and intercept.
+Where X1, X2, X3 ... X6 - **coefficients** for each parameter (*all of them after
+standardization are between 0 and 1*) and first number is and **intercept**.
+
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/distrib.png'>
 
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
