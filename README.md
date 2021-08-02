@@ -243,7 +243,7 @@ of film and other attributes:
 
 Let's see some plots of these relationships:
 
-
+<img src = 'https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/rel_grade.png'>
 
 ## How to contact me?
 <img src='https://github.com/Pasha831/ParsingIMDB/raw/main/cats_and_screenshots/crying_DiCaprio.gif' width="80" height="60">Me in Telegram: *https://t.me/nightshift48*
